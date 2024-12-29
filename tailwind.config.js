@@ -6,9 +6,8 @@ export default {
   ],
   theme: {
     extend: {
-
       fontFamily: {
-        "m-poppins": ""
+        "m-poppins": ['Poppins', 'sans-serif'],
       },
 
       colors: {
